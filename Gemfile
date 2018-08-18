@@ -8,4 +8,4 @@ group :development do
   gem "rspec"
 end
 
-gem "pry", :group => development
+gem "pry", :group => "development"
